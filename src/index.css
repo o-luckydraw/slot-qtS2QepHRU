@@ -64,3 +64,18 @@ body {
 .swal2-actions {
   @apply gap-2
 }
+
+.bg-img::after {
+    content: '';
+    display: block;
+    width: 89px;
+    height: 62px;
+    background-image: url(./button.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: absolute;
+    right: -30px;
+    top: 50%;
+    margin-top: -31px;
+}

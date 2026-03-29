@@ -184,7 +184,7 @@ const DrawPage: React.FC = () => {
                 <button
                   onClick={draw}
                   disabled={!authInitialized || !isAdmin || isDrawing}
-                  className="w-full h-10 bg-primary text-primary-text rounded-btn font-bold text-sm shadow-sm hover:opacity-90 active:scale-[0.98] transition-all disabled:opacity-50 disabled:cursor-not-allowed tracking-wide"
+                  className="relative w-full h-10 bg-primary text-primary-text rounded-btn font-bold text-sm shadow-sm hover:opacity-90 active:scale-[0.98] transition-all disabled:opacity-50 disabled:cursor-not-allowed tracking-wide bg-img"
                 >
                   {isDrawing ? 'DRAWING...' : 'DRAW!'}
                 </button>
