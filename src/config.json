@@ -1,0 +1,17 @@
+{
+  "siteId": "slot-qtS2QepHRU",
+  "adminEmail": "yumedream405@gmail.com",
+  "theme": {
+    "fontFamily": "Paperlogy",
+    "boxBgColor": "rgba(255, 255, 255, 0.85)",
+    "boxPadding": "2rem",
+    "boxRadius": "24px",
+    "buttonBgColor": "#ff84b8",
+    "buttonTextColor": "#ffffff",
+    "buttonRadius": "9999px",
+    "highBgColor": "#ff84b8",
+    "highTextColor": "#ffffff",
+    "adminLinkColor": "rgba(255, 255, 255, 0.3)",
+    "bgImageUrl": "./bg.png"
+  }
+}
