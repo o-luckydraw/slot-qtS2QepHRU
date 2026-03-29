@@ -11,7 +11,7 @@
     "buttonRadius": "9999px",
     "highBgColor": "#ff84b8",
     "highTextColor": "#ffffff",
-    "adminLinkColor": "rgba(255, 255, 255, 0.3)",
+    "adminLinkColor": "rgba(0, 0, 0, 0.2)",
     "bgImageUrl": "./bg.png"
   }
 }
