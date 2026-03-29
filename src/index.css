@@ -70,7 +70,7 @@ body {
     display: block;
     width: 89px;
     height: 62px;
-    background-image: url(./button.png);
+    background-image: url(/button.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
